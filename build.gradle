@@ -37,4 +37,5 @@ dependencies {
     compile("org.springframework.boot:spring-boot-starter-jetty")
 
     testCompile 'junit:junit:4.12'
+    testCompile 'com.jayway.restassured:rest-assured:2.6.0'
 }

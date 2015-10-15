@@ -35,7 +35,9 @@ dependencies {
         exclude module: "spring-boot-starter-tomcat"
     }
     compile("org.springframework.boot:spring-boot-starter-jetty")
+    compile 'org.springframework:spring-core:4.2.1.RELEASE'
 
     testCompile 'junit:junit:4.12'
     testCompile 'com.jayway.restassured:rest-assured:2.6.0'
+    testCompile 'org.springframework:spring-test:4.2.1.RELEASE'
 }

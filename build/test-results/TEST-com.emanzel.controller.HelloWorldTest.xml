@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.emanzel.controller.HelloWorldTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-10-15T09:36:19" hostname="eukbedda.local" time="0.003">
-  <properties/>
-  <testcase name="shouldReturnHelloWorld" classname="com.emanzel.controller.HelloWorldTest" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
